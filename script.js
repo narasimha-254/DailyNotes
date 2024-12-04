@@ -40,3 +40,5 @@ document.addEventListener('keydown',event=>{
         event.preventDefault();
     }
 })
+
+// Practice make perfect
